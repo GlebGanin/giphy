@@ -1,0 +1,49 @@
+
+body  {
+    background-image: url("background1.png");
+}
+
+img  {
+    width:200px;
+    height:150px;
+    margin:5px;
+    border-radius: 5px;
+}
+
+.width  {
+    width:900px;
+}
+
+
+#generatebutton  {
+    height: 100px;
+
+}
+
+#mainbody {
+    width:900px;
+    height:1200px;
+}
+
+
+/* .gifpic  {
+    width:100px;
+    height:100px;
+} */
+
+
+#newbutton  {
+    margin:6px;
+    background-color:rgba(31, 127, 216, 0.74);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    font-size: 15px;
+}
+
+.eotwbutton  {
+    margin:6px;
+    background-color:rgba(53, 134, 209, 0.74);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    font-size: 15px;
+    
+
+}
